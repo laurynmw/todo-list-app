@@ -32,5 +32,6 @@ if __name__ == "__main__":
     delete_task(0)
     view_tasks()
     mark_complete(0)
+    view_tasks()
     # view_tasks()
     # save_tasks()
